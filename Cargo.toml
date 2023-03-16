@@ -2,6 +2,10 @@
 name = "shita"
 version = "0.1.0"
 edition = "2021"
+authors = ["Mrinal Paliwal"]
+description = "A small utility to run timer in your shell"
+repository = "https://github.com/mnpw/shita"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
