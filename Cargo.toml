@@ -1,6 +1,6 @@
 [package]
 name = "shita"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Mrinal Paliwal"]
 description = "A small utility to run timer in your shell"
